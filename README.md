@@ -1,6 +1,14 @@
 Hi 👋 My name is Shivraj Goswami
 ================================
 
+### About Me
+
+<b>My Hello Stranger 👋, I am Shivraj Goswami, a teenager from India 🇮🇳 . I am an opensource and startup ethusiast. I love to help people and make their lives better with my ideas turned products.
+
+</b>
+
+
+
 ### Skills
 
 <p align="left">
