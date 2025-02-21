@@ -1,7 +1,7 @@
-Hi 👋 My name is Shivraj Goswami
+GM, i'm shivraj
 ================================
 
-this is one of my github accs
+i am currenly building Finz, pls do check it out! 
 
 you can chat with me at @shivrxj on tg/X :)
 
